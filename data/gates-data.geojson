@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "gates-data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gate_name": "GATE 4", "hex_id": 192.0, "jam_count_now": 0, "jam_count_prediction": 0.0016312696238065718 }, "geometry": { "type": "Point", "coordinates": [ -104.793417839791502, 38.761857961398704 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 3", "hex_id": 209.0, "jam_count_now": 0, "jam_count_prediction": 0.0018191440786128861 }, "geometry": { "type": "Point", "coordinates": [ -104.803649596040415, 38.763531487889672 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 2", "hex_id": 149.0, "jam_count_now": 0, "jam_count_prediction": 0.008303590975785655 }, "geometry": { "type": "Point", "coordinates": [ -104.805165148107307, 38.748973177523119 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 1", "hex_id": 141.0, "jam_count_now": 0, "jam_count_prediction": 0.0077678449844089219 }, "geometry": { "type": "Point", "coordinates": [ -104.804401254302903, 38.738532397674767 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 5", "hex_id": 80.0, "jam_count_now": 0, "jam_count_prediction": 0.027708869487573232 }, "geometry": { "type": "Point", "coordinates": [ -104.816865238186594, 38.719284979807213 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 20", "hex_id": 99.0, "jam_count_now": 0, "jam_count_prediction": 0.0055666666666666668 }, "geometry": { "type": "Point", "coordinates": [ -104.739768192972406, 38.725534021847295 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 19", "hex_id": 17.0, "jam_count_now": 0, "jam_count_prediction": 0.0041294689343977786 }, "geometry": { "type": "Point", "coordinates": [ -104.735401308786393, 38.668090880687963 ] } },
+{ "type": "Feature", "properties": { "gate_name": "GATE 6", "hex_id": 56.0, "jam_count_now": 0, "jam_count_prediction": 0.0071868590679515032 }, "geometry": { "type": "Point", "coordinates": [ -104.824873380522405, 38.700733800163164 ] } }
+]
+}
