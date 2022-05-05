@@ -621,7 +621,7 @@ let toggleMapboxLayer = function (state) {
 icon.addEventListener('click', function (e) {
   if (icon.checked) {
     // original state
-    toggleLabel.innerText = "Displaying Prediction";
+    toggleLabel.innerText = "Displaying Prediction in 2 hours";
     toggleMapboxLayer('prediction');
   } else {
     // showing present data
